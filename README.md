@@ -1,2 +1,2 @@
 # Huffman Coding
-
+This project was designed to compress txt file using Huffman algorithm without losing any data. In the sample file, the algorithm could compressed the txt file with 9.5 MB into file with only 6.9 MB. The decompressed file is identical as the original file. The compression effect depends on the content of the file. With the same size, the compression effect would be better for files with more repeated characters. The specialy about this project is that the in some occasion, the compression effect could even be better than the zip compression techique we normally use in our computer. 
