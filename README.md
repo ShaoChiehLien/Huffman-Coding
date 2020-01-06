@@ -1,2 +1,2 @@
-# Google-T-Rex-Game
+# Huffman Coding
 
