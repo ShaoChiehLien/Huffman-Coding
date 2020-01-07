@@ -4,8 +4,11 @@ This project was designed to compress a text file using the Huffman algorithm wi
 The Huffman Coding could be used in compressing image, mp3 or text file in real life.
 
 # Three Files
-"huff.c", Platform: Xcode, Language: C : The program will accept one command line argument, which will be the name of an input file and then write out the compressed output to a file that has the same name as the input file with a “.huff.txt” appended to it. 
+"huff.c", Platform: Xcode, Language: C : 
+The program will accept one command line argument, which will be the name of an input file and then write out the compressed output to a file that has the same name as the input file with a “.huff.txt” appended to it. 
 
-"unhuff.c", Platform: Xcode, Language: C : The program will accept one command line argument, which will be the name of an input file and then write out the de-compressed output to a file that has the same name as the input file with a “.unhuff.txt” appended to it. 
+"unhuff.c", Platform: Xcode, Language: C : 
+The program will accept one command line argument, which will be the name of an input file and then write out the de-compressed output to a file that has the same name as the input file with a “.unhuff.txt” appended to it. 
 
-"test file", Platform: Xcode, Language: C : The file included the file for testing and the sample output for compressed file and de-compressed file.
+"test file", Platform: Xcode, Language: C : 
+The file included the file for testing and the sample output for compressed file and de-compressed file.
